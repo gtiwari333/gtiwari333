@@ -1,4 +1,4 @@
-#### Blog: http://ganeshtiwaridotcomdotnp.blogspot.com/
+#### Blog: https://ganeshtiwaridotcomdotnp.blogspot.com
 
 #### Twitter: https://twitter.com/gtiwari333
 
