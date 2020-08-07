@@ -3,6 +3,8 @@
 #### Twitter: https://twitter.com/gtiwari333
 
 #### Stackoverflow: https://stackoverflow.com/users/607637/gtiwari333
+
+##### My tips for new developers: https://github.com/GT-Corp/myths-and-facts-about-programming/blob/master/README.md
  
  <!--
 **gtiwari333/gtiwari333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
